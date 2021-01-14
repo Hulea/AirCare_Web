@@ -1,0 +1,15 @@
+hello-world-view,
+#hello-world-view {
+  display: block;
+  padding: 1em;
+}
+
+
+@media (min-width: 1000px) {
+  html {
+    background: linear-gradient(320deg, #549ce5 10%, #f1f1f1 60%);
+  }
+
+}
+
+
